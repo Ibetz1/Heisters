@@ -1,0 +1,1 @@
+"C:\Users\Ianbe\OneDrive\Documents\LOVE\love.exe" "%cd%"
